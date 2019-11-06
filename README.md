@@ -1,1 +1,1 @@
-# WSJTX-FT8-AD9959-Evalboard-python-control-an-modulation-by-Raspberry-Pi
+# WSJTX-FT8-AD9959-Evalboard-control-and-modulation-with-Raspberry-Pi
